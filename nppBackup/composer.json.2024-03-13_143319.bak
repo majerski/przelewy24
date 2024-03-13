@@ -1,5 +1,5 @@
 {
-    "name": "majerski/przelewy24",
+    "name": "mnastalski/przelewy24-php",
     "description": "Przelewy24 PHP library",
     "keywords": [
         "przelewy24",
@@ -7,11 +7,11 @@
     ],
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/majerski/przelewy24",
+    "homepage": "https://github.com/mnastalski/przelewy24-php",
     "authors": [
         {
-            "name": "Tomasz Majerski",
-            "homepage": "https://www.arcontact.pl"
+            "name": "Mateusz Nastalski",
+            "homepage": "https://nastalski.pl"
         }
     ],
     "require": {
